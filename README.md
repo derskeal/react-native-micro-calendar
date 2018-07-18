@@ -1,6 +1,6 @@
 ## react-native-slidable-micro-calendar-view
 
-Tested with react-native 0.20
+Tested with react-native 0.55
 
 ## Add it to your project
 
