@@ -47,7 +47,7 @@ class SlidingCalendarViewExample extends React.Component {
 ## Example
 
 See
-[examples/SlidingCalendarViewExample](https://github.com/derskeal/react-native-micro-calendar/tree/master/examples/SlidingCalendarViewExample).
+[examples/SlidingCalendarViewExample](https://github.com/derskeal/react-native-micro-calendar/tree/master/examples/SlidingCalendarViewExample)
 
 ## Props
 
