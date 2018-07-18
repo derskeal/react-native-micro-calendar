@@ -1,6 +1,6 @@
 {
     "name": "react-native-micro-calendar",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "React Native horizontally slidable one-line calendar that can be used in a page with other Views.",
     "keywords": [
         "react-native",
