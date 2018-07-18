@@ -169,6 +169,7 @@ class CalendarView extends React.Component {
 
   getMonthDayView(day, dayOfMonth) {
     return <TouchableHighlight
+        key={day.unix()}
         style={styles.dayOfMonthContainer}
         onPress={this.changeSelectedDate.bind(this, day)}
         underlayColor={'rgba(0,0,0,0)'}
