@@ -1,21 +1,21 @@
-## react-native-slidable-micro-calendar-view
+## react-native-micro-calendar
 
 Tested with react-native 0.55
 
 ## Add it to your project
 
-1. Run `npm install react-native-slidable-micro-calendar-view --save`
-2. `var ScrollableCalendarView = require('react-native-slidable-micro-calendar-view');`
+1. Run `npm install react-native-micro-calendar --save`
+2. `var ScrollableCalendarView = require('react-native-micro-calendar');`
 
 
 
 ## Demo
-<a href="https://github.com/derskeal/react-native-slidable-micro-calendar-view/blob/master/demo.gif"><img src="https://github.com/derskeal/react-native-slidable-micro-calendar-view/blob/master/demo.gif" width="350"></a>
+<a href="https://github.com/derskeal/react-native-micro-calendar/blob/master/demo.gif"><img src="https://github.com/derskeal/react-native-micro-calendar/blob/master/demo.gif" width="350"></a>
 
 ## Basic usage
 
 ```javascript
-import SlidingCalendarView from 'react-native-slidable-micro-calendar-view';
+import SlidingCalendarView from 'react-native-micro-calendar';
 
 class SlidingCalendarViewExample extends React.Component {
 
@@ -43,12 +43,11 @@ class SlidingCalendarViewExample extends React.Component {
     this.setState({selectedDay: day});
   }
 }
-```
 
 ## Example
 
 See
-[examples/SlidingCalendarViewExample](https://github.com/derskeal/react-native-slidable-micro-calendar-view/tree/master/examples/SlidingCalendarViewExample).
+[examples/SlidingCalendarViewExample](https://github.com/derskeal/react-native-micro-calendar/tree/master/examples/SlidingCalendarViewExample).
 
 ## Props
 
