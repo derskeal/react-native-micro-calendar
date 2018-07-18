@@ -159,7 +159,7 @@ class CalendarView extends React.Component {
 
   getWeekDaysHeaderView() {
     return <View style={styles.weekDaysHeader}>
-      {this.weekDays(moment()).map((day, id) => {
+      {this.weekDays(moment()).map((day) => {
         return <View style={styles.dayOfWeakContainer} key={day.unix()}>
           <Text style={styles.dayOfWeakTitle}>{getWeakDayTitle(day.day())}</Text>
         </View>;
